@@ -1,0 +1,4 @@
+function removeFromBAck (arr){
+	arr.pop();
+	return arr;
+}
